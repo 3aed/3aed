@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aaed and I'm a backend developer & web scrapper.</p>
+<p align="left">My name is Aaed and I'm a QA engineer & Web scrapper.</p>
 
 ###
 
