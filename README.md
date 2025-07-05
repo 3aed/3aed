@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning pro node.js<br>🎯 Goals: to be the best at scraping</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning POSTMAN <br>🎯 Goals: to be the best at scraping</p>
 
 ###
 
