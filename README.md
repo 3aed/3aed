@@ -1,21 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there 👋, I'm Aaed!</h1>
 
-###
+<p align="left">
+I'm a QA Engineer & Web Scraper passionate about turning code into scalable solutions.
+</p>
 
-<p align="left">My name is Aaed and I'm a QA engineer & Web scrapper.</p>
+<h2 align="left">About Me</h2>
 
-###
-
-<p align="left">Hello World!! <br>"Turning Code into Scalable Solutions"</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning POSTMAN <br>🎯 Goals: to be the best at scraping</p>
-
+<p align="left">
+✨ Exploring and breaking things since 2019 <br>
+📚 Currently mastering POSTMAN and advanced automation <br>
+🎯 Goal: To become a top expert in web scraping and QA
+</p>
 
 <h2 align="left">🎓 My Certificates</h2>
 
