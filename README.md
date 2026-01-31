@@ -46,14 +46,14 @@
   <a href="https://testautomationu.applitools.com/certificate/?id=05a0ee17" target="_blank" style="margin-right: 15px;">
     <img src="Successful Test.png" width="250" height="150" alt="Certificate 4" />
   </a>
-
-  <a href="https://testautomationu.applitools.com/certificate/?id=55f23b64" target="_blank" style="margin-right: 15px;">
+  <a href="https://www.sololearn.com/certificates/CC-2S9VQ5AS" target="_blank"style="margin-right: 15px;>
+    <img src="sololeran3aed.jpg" width="250" height="150" alt="Certificate 6" />
+  </a>
+  <a href="https://testautomationu.applitools.com/certificate/?id=55f23b64" target="_blank" >
     <img src="certificates_TAU-python.png" width="250" height="150" alt="Certificate 5" />
   </a>
 
-  <a href="رابط_الشهادة_6" target="_blank">
-    <img src="certificate_6.png" width="250" height="150" alt="Certificate 6" />
-  </a>
+
 </div>
 
 
