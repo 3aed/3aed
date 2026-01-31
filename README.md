@@ -24,7 +24,19 @@
 </div>
 
 ###
+<h2 align="left">🎓 My Certificates</h2>
 
+<div align="left">
+  <a href="https://testautomationu.applitools.com/certificate/?id=091e5d84" target="_blank">
+    <img src="advanced-playrwight.png" width="200" height="120" alt="Certificate 1" />
+  </a>
+  <a href="certificate_link_2" target="_blank">
+    <img src="certificate_image_2.png" width="200" height="120" alt="Certificate 2" />
+  </a>
+  <a href="certificate_link_3" target="_blank">
+    <img src="certificate_image_3.png" width="200" height="120" alt="Certificate 3" />
+  </a>
+</div>
 
 
 ###
