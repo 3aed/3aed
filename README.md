@@ -26,19 +26,36 @@
 ###
 <h2 align="left">🎓 My Certificates</h2>
 
-<div align="left">
+<!-- First row -->
+<div align="left" style="margin-bottom: 20px;">
   <a href="https://testautomationu.applitools.com/certificate/?id=091e5d84" target="_blank" style="margin-right: 15px;">
-    <img src="advanced-playrwight.png" width="250" height="150" alt="Certificate 1" />
+    <img src="advanced-playrwight.png" width="250" height="150" alt="Advanced Playwright Certificate" />
   </a>
 
   <a href="https://www.sololearn.com/certificates/CC-F3IOKW9E" target="_blank" style="margin-right: 15px;">
-    <img src="SQL.jpg" width="250" height="150" alt="Certificate 3" />
-    
+    <img src="SQL.jpg" width="250" height="150" alt="SQL Certificate" />
   </a>
+
   <a href="https://testautomationu.applitools.com/certificate/?id=58449764" target="_blank">
-    <img src="API TESTING.png" width="250" height="150" alt="Certificate 2" />
+    <img src="API TESTING.png" width="250" height="150" alt="API Testing Certificate" />
   </a>
 </div>
+
+<!-- Second row -->
+<div align="left">
+  <a href="https://testautomationu.applitools.com/certificate/?id=05a0ee17" target="_blank" style="margin-right: 15px;">
+    <img src="Successful Test.png" width="250" height="150" alt="Certificate 4" />
+  </a>
+
+  <a href="https://testautomationu.applitools.com/certificate/?id=55f23b64" target="_blank" style="margin-right: 15px;">
+    <img src="certificates_TAU-python.png" width="250" height="150" alt="Certificate 5" />
+  </a>
+
+  <a href="رابط_الشهادة_6" target="_blank">
+    <img src="certificate_6.png" width="250" height="150" alt="Certificate 6" />
+  </a>
+</div>
+
 
 
 ###
