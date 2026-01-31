@@ -1,15 +1,16 @@
 <h1 align="left">Hi there 👋, I'm Aaed!</h1>
 
 <p align="left">
-I'm a QA Engineer & Web Scraper passionate about turning code into scalable solutions.
+I'm a Quality assurance Engineer & Web Scraper passionate about ensuring software quality and turning code into scalable solutions.
 </p>
 
 <h2 align="left">About Me</h2>
 
 <p align="left">
 ✨ Exploring and breaking things since 2019 <br>
-📚 Currently mastering POSTMAN and advanced automation <br>
-🎯 Goal: To become a top expert in web scraping and QA
+📚 Currently mastering advanced automation testing <br>
+💻 Professional in Playwright automation <br>
+🎯 Goal: To become a top expert in Quality assurance
 </p>
 
 <h2 align="left">🎓 My Certificates</h2>
