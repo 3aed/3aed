@@ -27,16 +27,16 @@
 <h2 align="left">🎓 My Certificates</h2>
 
 <div align="left">
-  <a href="https://testautomationu.applitools.com/certificate/?id=091e5d84" target="_blank">
-    <img src="advanced-playrwight.png" width="200" height="120" alt="Certificate 1" />
+  <a href="https://testautomationu.applitools.com/certificate/?id=091e5d84" target="_blank" style="margin-right: 15px;">
+    <img src="advanced-playrwight.png" width="250" height="150" alt="Certificate 1" />
   </a>
 
-  <a href="https://www.sololearn.com/certificates/CC-F3IOKW9E" target="_blank">
-    <img src="SQL.jpg" width="200" height="120" alt="Certificate 3" />
+  <a href="https://www.sololearn.com/certificates/CC-F3IOKW9E" target="_blank" style="margin-right: 15px;">
+    <img src="SQL.jpg" width="250" height="150" alt="Certificate 3" />
     
   </a>
   <a href="https://testautomationu.applitools.com/certificate/?id=58449764" target="_blank">
-    <img src="API TESTING.png" width="200" height="120" alt="Certificate 2" />
+    <img src="API TESTING.png" width="250" height="150" alt="Certificate 2" />
   </a>
 </div>
 
