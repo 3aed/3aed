@@ -33,8 +33,8 @@
   <a href="https://testautomationu.applitools.com/certificate/?id=58449764" target="_blank">
     <img src="API TESTING.png" width="200" height="120" alt="Certificate 2" />
   </a>
-  <a href="certificate_link_3" target="_blank">
-    <img src="certificate_image_3.png" width="200" height="120" alt="Certificate 3" />
+  <a href="https://www.sololearn.com/certificates/CC-F3IOKW9E" target="_blank">
+    <img src="SQL.jpg" width="200" height="120" alt="Certificate 3" />
   </a>
 </div>
 
